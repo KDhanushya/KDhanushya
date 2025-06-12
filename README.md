@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KDhanushya
 - 👀 I’m interested in mern stack,python,datascience
-- 🌱 I’m currently learning ...java,csharp
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...java,selenium,cucumber
+- 💞️ I’m looking to collaborate on ...testing
 - 📫 How to reach me ...
 
 <!---
